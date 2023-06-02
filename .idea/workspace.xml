@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ae65f65c-8351-40aa-bc39-5ec447b33b00" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +43,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "develop3",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/cloco/Documents/勉強フォルダ/github__practice",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
